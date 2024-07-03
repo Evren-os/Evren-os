@@ -4,7 +4,9 @@
 <img src=https://i.postimg.cc/KcLXd5PT/Default-A-digital-battle-scene-Two-figures-with-laptops-face-o-0-d6020b0c-7bb4-49fc-b730-e641f98b843.jpg alt="Second Image" style="width: 100%; height: auto; max-width: 800px;"> 
 </div>
 
-Greetings, Mere Mortals I am Sayeed Mahmood, known in certain illustrious circles as Evrenos. You've stumbled upon my GitHub profile, likely by accident or sheer boredom. Congratulations on finding something marginally more interesting than watching paint dry.
+#### Greetings, Mere Mortals 
+
+I am Sayeed Mahmood, known in certain illustrious circles as Evrenos. You've stumbled upon my GitHub profile, likely by accident or sheer boredom. Congratulations on finding something marginally more interesting than watching paint dry.
 
 #### About Me (As If You Cared)
 
