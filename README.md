@@ -42,8 +42,9 @@ If you're looking for someone to share your love for obscure Linux commands or j
 
 Thanks for stopping by. If you've made it this far, you're either genuinely interested or have a high tolerance for sarcasm. Either way, feel free to explore my half-baked projects - they might inspire your next 'works on my machine' moment.
 
-> Remember, in a world full of code, be the bug that makes it all interesting.
-> They say great developers are born, not made. Clearly, they haven't seen my git history.
+> Remember, in a world full of code, be the bug that makes it all interesting
+>
+> They say great developers are born, not made. Clearly, they haven't seen my git history
 
 <div align="center"> 
 <img src="https://komarev.com/ghpvc/?username=evrenos&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter">
