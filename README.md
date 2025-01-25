@@ -18,12 +18,9 @@ I'm Sayeed Mahmood, also known as Evrenos in some tech circles. You've landed he
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=000000" alt="ReactJS">
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
 </p>
-
-### Humor (or What Passes for It)
-
-Why did the programmer quit his job? Because he didn't find any bugs in his existential crisis. (Give it a moment; it's a slow burn.)
 
 ### Connect with Me
 
@@ -47,4 +44,4 @@ Thanks for stopping by. If you've made it this far, you're either genuinely inte
 > They say great developers are born, not made. Clearly, they haven't seen my git history
 
 <div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=evrenos&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter">
+<img src="https://komarev.com/ghpvc/?username=Evren-os&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter">
