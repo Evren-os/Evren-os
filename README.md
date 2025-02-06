@@ -1,47 +1,55 @@
-### Welcome, Fellow Coders (or Casual Stalkers)
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Evrenos&animation=fadeIn)
 
-I'm Sayeed Mahmood, also known as Evrenos in some tech circles. You've landed here because, well, maybe the internet has finally run out of cat videos for you.
+</div>
 
-### About Me
+I'm an aspiring dev with a focus on privacy-first design and Linux-powered systems. Currently building my path toward full-stack mastery while exploring the intersection of clean code and ethical tech.
 
-- 🌱 Currently diving into Web Development with a keen eye on privacy and security. Also, I'm deepening my roots in the Linux ecosystem because, why not?
-- 💡 I'm in tech because I genuinely love it. My goal? To leave a mark in the digital world.
-- 📅 Aspirations: Full Stack by 2025, contributing to open-source, and maybe, just maybe, changing the world one line of code at a time.
+---
 
-### Philosophy
+#### 🔭 Current Focus
 
-"If you're not making the world better, you're just making it bigger." - My slightly less cynical take on tech.
+- Architecting privacy-preserving web experiences
+- Deep-diving into system architecture fundamentals
+- Contributing to understated open-source projects that solve _real_ problems
+- 2025 Target: Full-Stack Architect Status [■■■■□□□□□□ 40%]
 
-### My Tech Arsenal
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=000000" alt="ReactJS">
-  <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-</p>
-
-### Connect with Me
-
-If you're looking for someone to share your love for obscure Linux commands or just want to chat about code without the small talk:
+#### 🛠️ Core Toolkit
 
 <p align="center">
-  <a href="https://twitter.com/evren_os">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://discord.com/users/1054321123321446451">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,linux" alt="Tech Stack">
 </p>
 
-### Final Words
+---
 
-Thanks for stopping by. If you've made it this far, you're either genuinely interested or have a high tolerance for sarcasm. Either way, feel free to explore my half-baked projects - they might inspire your next 'works on my machine' moment.
+#### 🌱 Beyond Code
 
-> Remember, in a world full of code, be the bug that makes it all interesting
->
-> They say great developers are born, not made. Clearly, they haven't seen my git history
+- Hiking trails > Social media trails
+- Helping people
+- Reverse-engineering complexity (both in code and nature)
 
-<div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Evren-os&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views Counter">
+---
+
+#### 📬 Let's Connect
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evrenos-dev.vercel.app)
+  [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evren_os)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1054321123321446451)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20to%20This%20Line-5.2k%20LOC-blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Evren-os&color=ff69b4&label=Stalker%20Count)
+
+</div>
+
+> "Good code is its own best documentation. Great code solves problems you didn't know existed."
